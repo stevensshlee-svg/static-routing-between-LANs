@@ -5,9 +5,9 @@ Configuring Inter-LAN connectivity using static routing
 Built a two-router topology to demonstrate Layer 3 routing between separate LANs using manually configured static routes
 
 ## Networks
-LAN A (Los Angeles): 192.168.10.0/24
-LAN B (New York): 192.168.20.0/24
-WAN Link: 10.0.0.0/30
+* LAN A (Los Angeles): 192.168.10.0/24
+* LAN B (New York): 192.168.20.0/24
+* WAN Link: 10.0.0.0/30
 
 ## Key Tasks
 * Configured DHCP on each router to provide end host connectivity within each LAN
