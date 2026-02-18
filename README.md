@@ -1,4 +1,4 @@
-# static-routing-between-LANs
+# Static routing between LANs
 Configuring Inter-LAN connectivity using static routing
 
 ## Overview
